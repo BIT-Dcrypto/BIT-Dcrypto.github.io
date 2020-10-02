@@ -5,4 +5,4 @@ Personal Website card layout view
 
 # Preview
 
-<img src="bitprev.jpg">
+<img src="devprev.png">
